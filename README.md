@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm muhammadshiraz</h1>
+<h1 align="center">Hi 👋, I'm Hassamsohail</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsheraz492&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsheraz492" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassamsohail&label=Profile%20views&color=0e75b6&style=flat" alt="Hassamsohail" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsheraz492" alt="muhammadsheraz492" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muhamma4119" target="blank"><img src="https://img.shields.io/twitter/follow/muhamma4119?logo=twitter&style=for-the-badge" alt="muhamma4119" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hassam_sohail9" target="blank"><img src="https://img.shields.io/twitter/follow/hassam_sohail9?logo=twitter&style=for-the-badge" alt="hassam_sohail9" /></a> </p>
 
-- 🔭 I’m currently working on [FHEORY](https://github.com/Muhammadsheraz492/FHEORY)
+- 🔭 I’m currently working on [Qooks](https://github.com/Muhammadsheraz492/Qooks)
 
 - 🌱 I’m currently learning **Dangao,**
 
-- 👯 I’m looking to collaborate on [Animations](https://github.com/Muhammadsheraz492/Animation)
+- 👯 I’m looking to collaborate on [Animations](https://github.com/Hassamsohail/Animation)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammadsheraz492](https://github.com/Muhammadsheraz492)
+- 👨‍💻 All of my projects are available at [https://github.com/Hassamsohail](https://github.com/Hassamsohail)
 
-- 📝 I regularly write articles on [https://medium.com/@muhammadshiraz492](https://medium.com/@muhammadshiraz492)
+- 📝 I regularly write articles on [https://medium.com/@Hassamsohail](https://medium.com/@Hassamsohail)
 
-- 📫 How to reach me **muhammadshiraz492@gmail.com**
+- 📫 How to reach me **hassamsohail009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhamma4119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma4119" height="30" width="40" /></a>
+<a href="https://twitter.com/Hassamsohail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hassamsohail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-shiraz-a910ab224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shiraz-a910ab224" height="30" width="40" /></a>
 <a href="https://fb.com/sharazs.sharaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharazs.sharaz" height="30" width="40" /></a>
 <a href="https://instagram.com/sharaz795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharaz795" height="30" width="40" /></a>
