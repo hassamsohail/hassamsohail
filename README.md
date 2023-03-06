@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Qooks](https://github.com/Muhammadsheraz492/Qooks)
 
-- 🌱 I’m currently learning **Dangao,**
+- 🌱 I’m currently learning **React native,**
 
 - 👯 I’m looking to collaborate on [Animations](https://github.com/Hassamsohail/Animation)
 
