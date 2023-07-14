@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hassam_sohail9" target="blank"><img src="https://img.shields.io/twitter/follow/hassam_sohail9?logo=twitter&style=for-the-badge" alt="hassam_sohail9" /></a> </p>
 
-- 🔭 I’m currently working on [Qooks](https://github.com/Muhammadsheraz492/Qooks)
+- 🔭 I’m currently working on [WordPress Plugin Developement](https://github.com/Hassamsohail)
 
-- 🌱 I’m currently learning **React native,**
+- 🌱 I’m currently learning **React native**
 
 - 👯 I’m looking to collaborate on [Animations](https://github.com/Hassamsohail/Animation)
 
