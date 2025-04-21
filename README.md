@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassamsohail&label=Profile%20views&color=0e75b6&style=flat" alt="Hassamsohail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsheraz492" alt="muhammadsheraz492" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hassam_sohail9" target="blank"><img src="https://img.shields.io/twitter/follow/hassam_sohail9?logo=twitter&style=for-the-badge" alt="hassam_sohail9" /></a> </p>
 
 - 🔭 I’m currently working on [React Native](https://github.com/Hassamsohail)
